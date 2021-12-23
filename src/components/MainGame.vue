@@ -740,7 +740,7 @@ input[type="number"] {
   border-radius: 0 0 5px 5px;
   margin-left: 15.2%;
   background-color: rgb(61, 50, 50);
-  -webkit-clip-path: polygon(0 0, 0 100%, 100% 100%, 100% 100%, 75% 0);
+  -webkit-clip-path: polygon(39.5% 0, 0 100%, 100% 100%, 100% 100%, 68% 0);
   clip-path: polygon(39.5% 0, 0 100%, 100% 100%, 100% 100%, 68% 0);
   z-index: 100;
 }
@@ -753,7 +753,7 @@ input[type="number"] {
   margin-left: 12%;
   margin-right: 15%;
   background-color: white;
-  -webkit-clip-path: polygon(0 0, 0 100%, 100% 100%, 100% 100%, 75% 0);
+  -webkit-clip-path: polygon(46% 0, 0 100%, 100% 100%, 100% 100%, 64% 0);
   clip-path: polygon(46% 0, 0 100%, 100% 100%, 100% 100%, 64% 0);
   z-index: 100;
 }
@@ -777,6 +777,7 @@ input[type="number"] {
   width: 100%;
   height: 169px;
   background-color: lightsteelblue;
+  -webkit-clip-path: polygon(34% 0, 0 100%, 100% 100%, 100% 100%, 70% 0);
   clip-path: polygon(34% 0, 0 100%, 100% 100%, 100% 100%, 70% 0);
 }
 .bowling-basket-div {
@@ -947,6 +948,7 @@ input[type="number"] {
   height: 30px;
   width: 15%;
   background-color: rgb(75, 75, 75);
+  -webkit-clip-path: polygon(0 0, 20% 100%, 100% 100%, 100% 100%, 100% 0);
   clip-path: polygon(0 0, 20% 100%, 100% 100%, 100% 100%, 100% 0);
 }
 .spining-ball {
