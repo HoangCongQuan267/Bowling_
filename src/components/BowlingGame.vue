@@ -74,4 +74,14 @@ a {
   margin-left: 10px;
   margin-right: 10px;
 }
+@media only screen and (max-width: 600px) {
+  .stars-board {
+    background-color: burlywood;
+    border-radius: 5px;
+    min-height: 60vh;
+    margin-right: 0vw;
+    margin-left: 0vw;
+    margin-bottom: 4vh;
+  }
+}
 </style>
