@@ -801,6 +801,7 @@ input[type="number"] {
   z-index: 100;
   transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg) translateX(0px)
     translateZ(-105px);
+  -webkit-clip-path: polygon(0 0, 90% 100%, 100% 100%, 100% 100%, 100% 0);
   clip-path: polygon(0 0, 90% 100%, 100% 100%, 100% 100%, 100% 0);
 }
 .pins-hole-div {
